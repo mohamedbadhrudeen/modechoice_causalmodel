@@ -6,3 +6,5 @@ The part of the R code - correlation matrix for mixed data (copula estimate.R) -
 paper "Learning causal structure from mixed data with missing values using Gaussian copula models" by Cui et al (2019).   
 
 This R code produces two causal structure based one based on Copula PC algorithm, and the other based on Fast Causal Inference(FCI) algorithms. 
+
+Data - National Household Travel Survey 2017 - used for this can be downloaded from https://nhts.ornl.gov/assets/2016/download/Csv.zip 
