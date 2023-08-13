@@ -1,5 +1,5 @@
-# modechoice_causal
-Understanding mode choice behaviour using causal structure learning
+# Causal Structure Learning of Mode Choice Behavior
+Understanding mode choice behaviour using causal structure learning. This was a course project completed by me and [Rishabh Chauhan](https://scholar.google.com/citations?hl=en&user=c8NFKrsAAAAJ).
 
 This repository contains R code for the project titled "Understanding Mode Choice Behaviour through Causal Structure Learning". 
 The part of the R code - correlation matrix for mixed data (copula estimate.R) - shared here was copied from the 
